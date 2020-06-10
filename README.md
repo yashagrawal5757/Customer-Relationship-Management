@@ -40,10 +40,13 @@ All the changes you make in the database can now be viewed in the local host ser
 
 ### Results
 ![login](results/login.png)
-![Authenticated](results/login2.png)
+![Authenticated](results/login_success.png)
+
 ![Home Menu](results/home.png)
 ![Product Details](results/product_details.png)
+
 ![Add a Product](results/add_product.png)
 ![Sell a Product](results/sell_product.png)
+
 ![Customer Details](results/customer_details.png)
 
