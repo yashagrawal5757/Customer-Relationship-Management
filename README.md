@@ -39,11 +39,11 @@ All the changes you make in the database can now be viewed in the local host ser
 
 
 ### Results
-Login - ![login](login.PNG)
-Authenticated - ![Authenticated](login2.PNG)
-Home Menu - ![Home Menu](home.PNG)
-Product Details - ![Product Details](product_details.PNG)
-Add a Product - ![Add a Product](add_product.PNG)
-Sell a Product - ![Sell a Product](sell_product.PNG)
-Customer Details - ![Customer Details](customer_details.PNG)
+Login - ![login](results/login.PNG)
+Authenticated - ![Authenticated](results/login2.PNG)
+Home Menu - ![Home Menu](results/home.PNG)
+Product Details - ![Product Details](results/product_details.PNG)
+Add a Product - ![Add a Product](results/add_product.PNG)
+Sell a Product - ![Sell a Product](results/sell_product.PNG)
+Customer Details - ![Customer Details](results/customer_details.PNG)
 
