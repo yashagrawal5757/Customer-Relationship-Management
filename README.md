@@ -41,10 +41,13 @@ All the changes you make in the database can now be viewed in the local host ser
 ### Results
 <img src="results/login.png" align="left" height="200" width="250" >
 <img src="results/login_success.png" align="left" height="200" width="250" >
+
 <img src="results/home.png" align="left" height="200" width="250" >
-<img src="results/product_details.png" align="right" height="200" width="250" >
+<img src="results/product_details.png" align="left" height="200" width="250" >
+
 <img src="results/add_product.png" align="left" height="200" width="250" >
-<img src="results/sell_product.png" align="right" height="200" width="250" >
+<img src="results/sell_product.png" align="left" height="200" width="250" >
+
 <img src="results/customer_details.png" align="left" height="200" width="250" >
 
 
