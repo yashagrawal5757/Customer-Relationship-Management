@@ -40,6 +40,8 @@ All the changes you make in the database can now be viewed in the local host ser
 
 ### Results
 ![login](results/login.png)
+<img src="results/login.png" align="left" height="48" width="48" >
+
 ![Authenticated](results/login_success.png)
 
 ![Home Menu](results/home.png)
